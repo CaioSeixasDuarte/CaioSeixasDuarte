@@ -1,4 +1,4 @@
-### Olá, eu sou o *Caio Seixas Duarte* 🖐️. Sejam bem-vindos ao meu Github!
+### Olá, eu sou o *Caio Seixas Duarte*! 🖐️
 - ⚙️ Engenheiro Mecatrônico
 - 👨‍💻 Jr Full Stack Developer
 - 💻 Interessado por programação e tecnologia
