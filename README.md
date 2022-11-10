@@ -1,6 +1,6 @@
 ### Olá, eu sou o *Caio Seixas Duarte*! 🖐️
 - ⚙️ Engenheiro Mecatrônico
-- 👨‍💻 Jr Front End Developer
+- 👨‍💻 Jr Full Stack Developer
 - 💻 Interessado por programação e tecnologia
 - 💼 A procura de um emprego como desenvolvedor
 
